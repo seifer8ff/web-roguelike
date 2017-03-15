@@ -1,0 +1,22 @@
+{
+  "name": "web-roguelike",
+  "version": "1.0.0",
+  "description": "Web-based roguelike, also targeting mobile.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seifer8ff/web-roguelike.git"
+  },
+  "author": "Brady Mauermann-Peterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seifer8ff/web-roguelike/issues"
+  },
+  "homepage": "https://github.com/seifer8ff/web-roguelike#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
